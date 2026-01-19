@@ -41,7 +41,7 @@ In this project, a traditional database named **`myntra`** is hosted on an EC2 i
 
 ## Step-by-Step Project Implementation
 
-### Step 1: Launch EC2 Instance for Traditional Database
+### Step 1: Launch a EC2 Instance for Traditional Database
 - Launch an EC2 instance using Amazon Linux.
 - Install database server (MySQL/MariaDB).
 - Create database named **myntra**.
